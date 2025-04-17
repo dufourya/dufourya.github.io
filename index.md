@@ -2,36 +2,90 @@
 layout: default
 ---
 
-Accomplished researcher and data analyst at the intersection of medical research and machine learning.
-
-I specialize in statistical modeling using Bayesian methods to guide data-driven strategic decisions.
-
-I thrive on solving complex problems through innovative approaches and data analysis.
+We accompany you in managing, valorizing, and interpreting your data to make the right strategic decisions.
+---------------
 
 * * *
 
-# Expertise
+## Mission
 
-* R
-* Python
-* SQL
-* Bayesian inference
-* Hierarchical and mixed-effects models
-* Machine learning
-* Data-driven strategic planning
+We aim to empower your organization by transforming data into **actionable insights** and strategic advantages.
+
+We are committed to:
+* Working as a **cohesive team** throughout the lifecycle of your project, ensuring seamless integration and continuous support.
+* Taking the time to **understand your unique challenges** and objectives to build customized solutions that meet your needs.
+* Unlocking the **full potential of your data** and expert knowledge to drive innovation, efficiency, and growth.
+* Employing an **iterative approach** to evaluate milestone achievements, ensuring continuous improvement and adaptability.
+* Guiding you through each step of the process to ensure **knowledge transfer**, enabling your team to leverage insights effectively.
+* Building models that are fully **transparent and interpretable**, facilitating data-driven strategic recommendations that you can trust.
+* Delivering a **reproducible analysis** package that serves as a foundation for future developments.
+
+Our goal is to be your **trusted partner** in strategic planning, helping you harness the power of data modeling to achieve **measurable impact**.
+
+* * *
+
+## Your needs
+
+We can assist your team with the following services:
+
+#### 1. Data quality control:
+- Data cleaning and preprocessing
+- Identifying and handling missing values
+- Ensuring data consistency and accuracy
+
+#### 2. Structuring your data:
+- Data exploration and visualization
+- Identifying hierarchical and nested relationships
+- Incorporation of expert knowledge and causality
+
+#### 3. Predictive modeling:
+- Leveraging cutting-edge machine learning and Bayesian methods
+- Building tailored models that are transparent and interpretable
+- Exploring and comparing alternative model assumptions
+
+#### 4. Quantifying uncertainty:
+- Quantifying uncertainty in model predictions
+- Accounting for all possible scenarios, including rare events
+- Performing sensitivity analyses of outcomes to parameters
+
+#### 5. Data-driven decision making:
+- Assessing risk and making decisions under uncertainty
+- Developing custom cost functions tailored to your needs
+- Balancing trade-offs between different objectives
+
+#### 6. Training and knowledge transfer:
+- Explaining key modeling concepts and techniques
+- Empowering your team to utilize the model to make predictions
+- Delivering a fully reproducible and customizable analysis package
+
+***
+
+## Our expertise
+
+* Bayesian inference and Monte Carlo methods
+* Hierarchical and mixed-effects modeling
+* Linear and non-linear modeling
+* Biostatistics and genomics
 * Computer vision
-* Visualization
+* Data exploration and visualization
 
-* * *
+* Python, PyMC, scikit-learn, Matplotlib
+* R, RStan, brms, RStudio, GGplot
 
-# Example Projects
+![Python](/assets/img/python-logo-generic.svg){: height="50" } ![jupyter](https://jupyter.org/assets/homepage/main-logo.svg){: height="50" } ![PyMC](https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg){: height="50" } ![R](/assets/img/Rlogo.svg){: height="50" } ![RStan](https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png){: height="50" }
 
-* Computer vision
-* Dynamical systems modeling
-* Mixed-effects models
+***
+<!-- 
+## Project examples
 
-# Contact
+![Github](assets/img/github-mark.svg){: height="20" } [Clinical trial](https://github.com/dufourya)
 
-[Linkedin profile](https://www.linkedin.com/in/yann-dufour)
+![Github](assets/img/github-mark.svg){: height="20" } [Image analysis](https://github.com/dufourya)
 
-* * *
+![Github](assets/img/github-mark.svg){: height="20" } [Time series](https://github.com/dufourya)
+
+* * * -->
+
+## Contact
+
+![mail](assets/img/email.svg){: height="20" } [contact@datinsights.com](mailto:contact@datinsights.com)
