@@ -28,32 +28,32 @@ Our goal is to be your **trusted partner** in strategic planning, helping you ha
 
 We can assist your team with the following services:
 
-#### 1. Data quality control:
+1. **Data quality control:**
 - Data cleaning and preprocessing
 - Identifying and handling missing values
 - Ensuring data consistency and accuracy
 
-#### 2. Structuring your data:
-- Data exploration and visualization
+2. **Structuring your data:**
+- Exploring data and creating informative visualizations
 - Identifying hierarchical and nested relationships
-- Incorporation of expert knowledge and causality
+- Incorporating expert knowledge and known causality
 
-#### 3. Predictive modeling:
+3. **Predictive modeling:**
 - Leveraging cutting-edge machine learning and Bayesian methods
 - Building tailored models that are transparent and interpretable
 - Exploring and comparing alternative model assumptions
 
-#### 4. Quantifying uncertainty:
-- Quantifying uncertainty in model predictions
+4. **Quantifying uncertainty:**
+- Evaluating uncertainty in model predictions and gaps in knowledge
 - Accounting for all possible scenarios, including rare events
 - Performing sensitivity analyses of outcomes to parameters
 
-#### 5. Data-driven decision making:
+5. **Data-driven decision making:**
 - Assessing risk and making decisions under uncertainty
 - Developing custom cost functions tailored to your needs
 - Balancing trade-offs between different objectives
 
-#### 6. Training and knowledge transfer:
+6. **Training and knowledge transfer:**
 - Explaining key modeling concepts and techniques
 - Empowering your team to utilize the model to make predictions
 - Delivering a fully reproducible and customizable analysis package
@@ -65,18 +65,19 @@ We can assist your team with the following services:
 * Bayesian inference and Monte Carlo methods
 * Hierarchical and mixed-effects modeling
 * Linear and non-linear modeling
-* Biostatistics and genomics
-* Computer vision
 * Data exploration and visualization
 
-* Python, PyMC, scikit-learn, Matplotlib
-* R, RStan, brms, RStudio, GGplot
+* Biostatistics and genomics
+* Computer vision
+
+* **Python**, PyMC, scikit-learn, Matplotlib
+* **R**, RStan, brms, RStudio, GGplot
 
 ![Python](/assets/img/python-logo-generic.svg){: height="50" } ![jupyter](https://jupyter.org/assets/homepage/main-logo.svg){: height="50" } ![PyMC](https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg){: height="50" } ![R](/assets/img/Rlogo.svg){: height="50" } ![RStan](https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png){: height="50" }
 
 ***
-<!-- 
-## Project examples
+
+## Project samples
 
 ![Github](assets/img/github-mark.svg){: height="20" } [Clinical trial](https://github.com/dufourya)
 
@@ -84,7 +85,7 @@ We can assist your team with the following services:
 
 ![Github](assets/img/github-mark.svg){: height="20" } [Time series](https://github.com/dufourya)
 
-* * * -->
+* * *
 
 ## Contact
 
