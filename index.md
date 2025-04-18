@@ -73,8 +73,8 @@ We can assist your team with the following services:
 
 ![Github](assets/img/github-mark.svg){: height="20" } [Image analysis](https://github.com/dufourya)
 
-![Github](assets/img/github-mark.svg){: height="20" } [Time series](https://github.com/dufourya)
--->
+![Github](assets/img/github-mark.svg){: height="20" } [Time series](https://github.com/dufourya) -->
+
 ## Contact
 
 ![mail](assets/img/email.svg){: height="20" } [contact@datinsights.com](mailto:contact@datinsights.com)

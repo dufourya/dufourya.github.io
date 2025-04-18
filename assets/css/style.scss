@@ -11,18 +11,19 @@ body {
     font-weight: 400;
     max-width: 600px;
 }
-
 strong {
     color: #404040;
     font-weight: 600;
 }
-
 h2 {
     color: #ffffff;
-    background: linear-gradient(90deg,#508ab8 0%, #508ab8 35%, #ffffff 80%);
+    background: linear-gradient(90deg,#2665a1d8 0%, #2665a1d8 50%, #ffffff 100%);
     padding: 5px;
 }
-
 img {
     max-height: 200px;
   }
+a {
+    color: #2666a1;
+    text-decoration: none;
+}
