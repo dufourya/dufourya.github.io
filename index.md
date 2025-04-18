@@ -2,56 +2,51 @@
 layout: default
 ---
 
-### We accompany you in managing, valorizing, and interpreting your data to make the right strategic decisions.
+### We help you manage, maximize, and interpret your data to make smart strategic decisions.
 
 ## Mission
 
 We aim to empower your organization by transforming data into **actionable insights** and strategic advantages.
 
 We are committed to:
-* Working as a **cohesive team** throughout the lifecycle of your project, ensuring seamless integration and continuous support.
-* Taking the time to **understand your unique challenges** and objectives to build customized solutions that meet your needs.
-* Unlocking the **full potential of your data** and expert knowledge to drive innovation, efficiency, and growth.
-* Employing an **iterative approach** to evaluate milestone achievements, ensuring continuous improvement and adaptability.
-* Guiding you through each step of the process to ensure **knowledge transfer**, enabling your team to leverage insights effectively.
-* Building models that are fully **transparent and interpretable**, facilitating data-driven strategic recommendations that you can trust.
-* Delivering a **reproducible analysis** package that serves as a foundation for future developments.
+* Work as a **cohesive team** throughout the lifecycle of your project, ensuring seamless integration and continuous support.
+* Take the time to **understand your unique challenges** and objectives to build customized solutions that meet your needs.
+* Unlock the **full potential of your data** and expert knowledge to drive innovation, efficiency, and growth.
+* Employ an **iterative approach** to evaluate milestone achievements, ensuring continuous improvement and adaptability.
+* Guide you through each step of the process to ensure **knowledge transfer**, enabling your team to leverage insights effectively.
+* Build models that are fully **transparent and interpretable**, facilitating data-driven strategic recommendations that you can trust.
+* Deliver a **reproducible analysis** package that serves as a foundation for future developments.
 
-Our goal is to be your **trusted partner** in strategic planning, helping you harness the power of data modeling to achieve **measurable impact**.
+Our goal is to be your **trusted partner** in strategic planning, helping you leverage data modeling to acheive **measurable results**.
 
 ## Your needs
 
 We can assist your team with the following services:
 
 1. **Data quality control:**
-- Data cleaning and preprocessing
-- Identifying and handling missing values
-- Ensuring data consistency and accuracy
-
+- Celan and preprocess data
+- Identify and handle missing values
+- Ensure data consistency and accuracy
 2. **Structuring your data:**
-- Exploring data and creating informative visualizations
-- Identifying hierarchical and nested relationships
-- Incorporating expert knowledge and known causality
-
+- Explore data and create informative visualizations
+- Identify hierarchical and nested relationships
+- Incorporate expert knowledge and known causality
 3. **Predictive modeling:**
-- Leveraging cutting-edge machine learning and Bayesian methods
-- Building tailored models that are transparent and interpretable
-- Exploring and comparing alternative model assumptions
-
+- Leverage cutting-edge machine learning and Bayesian methods
+- Build tailored models that are transparent and interpretable
+- Explore and compare alternative model assumptions
 4. **Quantifying uncertainty:**
-- Evaluating uncertainty in model predictions and gaps in knowledge
-- Accounting for all possible scenarios, including rare events
-- Performing sensitivity analyses of outcomes to parameters
-
+- Evaluate uncertainty in model predictions and gaps in knowledge
+- Account for all possible scenarios, including rare events
+- Perform sensitivity analyses of outcomes to parameters
 5. **Data-driven decision making:**
-- Assessing risk and making decisions under uncertainty
-- Developing custom cost functions tailored to your needs
-- Balancing trade-offs between different objectives
-
+- Assess risk and make decisions under uncertainty
+- Develop custom cost functions tailored to your needs
+- Balance trade-offs between different objectives
 6. **Training and knowledge transfer:**
-- Explaining key modeling concepts and techniques
-- Empowering your team to utilize the model to make predictions
-- Delivering a fully reproducible and customizable analysis package
+- Explain key modeling concepts and techniques
+- Empower your team to utilize the model to make predictions
+- Deliver a fully reproducible and customizable analysis package
 
 ## Our expertise
 
@@ -71,6 +66,7 @@ We can assist your team with the following services:
 
 ![Python](/assets/img/python-logo-generic.svg){: height="50" } ![jupyter](https://jupyter.org/assets/homepage/main-logo.svg){: height="50" } ![PyMC](https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg){: height="50" } ![R](/assets/img/Rlogo.svg){: height="50" } ![RStan](https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png){: height="50" }
 
+<!-- 
 ## Project samples
 
 ![Github](assets/img/github-mark.svg){: height="20" } [Clinical trial](https://github.com/dufourya)
@@ -78,7 +74,7 @@ We can assist your team with the following services:
 ![Github](assets/img/github-mark.svg){: height="20" } [Image analysis](https://github.com/dufourya)
 
 ![Github](assets/img/github-mark.svg){: height="20" } [Time series](https://github.com/dufourya)
-
+-->
 ## Contact
 
 ![mail](assets/img/email.svg){: height="20" } [contact@datinsights.com](mailto:contact@datinsights.com)
