@@ -55,12 +55,15 @@ We can assist your team with the following services:
 
 ## Our expertise
 
-* Bayesian inference and Monte Carlo methods
+* Bayesian statistics
+* Causal inference
 * Hierarchical and mixed-effects modeling
 * Linear and non-linear modeling
 * Data exploration and visualization
 
-* Biostatistics and genomics
+* Bioinformatics and genomics
+* Experimental design
+* Real world evidence
 * Computer vision
 
 * **Python**, PyMC, scikit-learn, Matplotlib
