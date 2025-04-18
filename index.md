@@ -2,10 +2,7 @@
 layout: default
 ---
 
-We accompany you in managing, valorizing, and interpreting your data to make the right strategic decisions.
----------------
-
-* * *
+### We accompany you in managing, valorizing, and interpreting your data to make the right strategic decisions.
 
 ## Mission
 
@@ -21,8 +18,6 @@ We are committed to:
 * Delivering a **reproducible analysis** package that serves as a foundation for future developments.
 
 Our goal is to be your **trusted partner** in strategic planning, helping you harness the power of data modeling to achieve **measurable impact**.
-
-* * *
 
 ## Your needs
 
@@ -58,8 +53,6 @@ We can assist your team with the following services:
 - Empowering your team to utilize the model to make predictions
 - Delivering a fully reproducible and customizable analysis package
 
-***
-
 ## Our expertise
 
 * Bayesian inference and Monte Carlo methods
@@ -75,8 +68,6 @@ We can assist your team with the following services:
 
 ![Python](/assets/img/python-logo-generic.svg){: height="50" } ![jupyter](https://jupyter.org/assets/homepage/main-logo.svg){: height="50" } ![PyMC](https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg){: height="50" } ![R](/assets/img/Rlogo.svg){: height="50" } ![RStan](https://raw.githubusercontent.com/stan-dev/logos/master/logo_tm.png){: height="50" }
 
-***
-
 ## Project samples
 
 ![Github](assets/img/github-mark.svg){: height="20" } [Clinical trial](https://github.com/dufourya)
@@ -85,8 +76,10 @@ We can assist your team with the following services:
 
 ![Github](assets/img/github-mark.svg){: height="20" } [Time series](https://github.com/dufourya)
 
-* * *
-
 ## Contact
 
 ![mail](assets/img/email.svg){: height="20" } [contact@datinsights.com](mailto:contact@datinsights.com)
+
+![Linkedin](assets/img/InBug-Black.png){: height="20" } [Linkedin profile](https://www.linkedin.com/in/yann-dufour/)
+
+[![Scholar](assets/img/scholar_logo_64dp.png){: height="20" }](https://scholar.google.com/citations?user=CLTatQMAAAAJ&hl=en)
