@@ -1,6 +1,7 @@
 ## Web pages for DatInsights.com
 
 This repository serves the pages for [DatInsights](https://datinsights.com/).
+
 [DatInsights](https://datinsights.com/) is a Data Science and Bioscience consulting service.
 
 ## The Minimal theme
